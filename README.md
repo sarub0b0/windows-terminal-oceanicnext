@@ -1,1 +1,1 @@
-# windows-terminal-oceanicnext
+# OceanicNext for Windows Terminal
